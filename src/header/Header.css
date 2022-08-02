@@ -1,0 +1,22 @@
+.App-logo {
+  margin: 20px;
+  height: 75px;
+  width: 125px;
+  pointer-events: none;
+}
+
+.App-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+}
+.nav-item {
+  padding: 0 20px;
+  min-width: 25px;
+}
